@@ -3,8 +3,11 @@
 ## Description
 My CLFP is a mobile responsive, dynamic, rock climbing guidebook web app that utilizes modern, data-driven technologies to provide fast and reliable access to an area's rock climbing. The features of my web app include...
 1. Easily updatable information on routes, boulders, and reigons.
+
 2. User interaction that cannot be achieved in a traditional print guidebook.
+
 3. Data tracking and visualization tools.
+
 4. An announcements and newsletter feature to better connect with the audience on important matters and issues
 
 ## Technologies Used
